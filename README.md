@@ -5,7 +5,7 @@
 - Spring boot HATEOAS REST APIs
 - Unit tests
 - Integration tests
-- Mockitoooo234asd1231
+- Mockito
 - JACOCO Coverage reports
 =======
 # springboot-unitest
