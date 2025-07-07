@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # spring-boot-rest-api-unit-tests
 
 - Spring boot REST APIs
@@ -6,3 +7,7 @@
 - Integration tests
 - Mockito
 - JACOCO Coverage reports
+=======
+# springboot-unitest
+Trying unit test with Springboot
+>>>>>>> 2f8a3aeafbade5b8ccd124eaf37c2882c4df8962
